@@ -9,6 +9,6 @@ public class test {
         System.out.println(totalMemory);
         System.out.println(maxMemory);
         System.out.println(Thread.currentThread().getName());
-       // Thread.currentThread().sleep(1000000000);
+
     }
 }
